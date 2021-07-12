@@ -1,0 +1,12 @@
+---
+title: "My Website"
+author: "Gowtham Katta"
+date: "7/12/2021"
+output: html_document
+---
+
+# About me:
+## My name is Gotham and I am from Dallas, Texas.
+## What I like to do in my freetime is run. 
+
+#### The other tabs represent work / analyses that I have completed.  Please check them out!
